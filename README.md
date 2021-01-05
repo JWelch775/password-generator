@@ -1,5 +1,5 @@
 # Password Generator Starter Code
-JS-Password-Generator
+Password-Generator
 Password Generator made in 
 
 Goals of Project
