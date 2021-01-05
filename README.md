@@ -26,4 +26,4 @@ WHEN the password is generated THEN the password is either displayed in an alert
 
 link to site: https://jwelch775.github.io/password-generator/
 
-![Alt text](password-generator-screenshot.jpg?raw=true "password generator")
+![Screenshot] (password-generator-screenshot.png)
