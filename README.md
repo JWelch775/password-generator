@@ -1,6 +1,5 @@
 # Password Generator Starter Code
 Password-Generator
-Password Generator made in 
 
 Goals of Project
 The project was designed for the following user story:
